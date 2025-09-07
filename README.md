@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ant0069
-- 👀 I’m interested in python and C++ 
-- 🌱 I’m currently learning how to make python and C++ GUIs
+- 👀 I’m interested in python, C++ and Unreal engine
+- 🌱 I’m currently learning how to work with Unreal engine
 - 💞️ I’m looking to collaborate on basic python projects
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him
